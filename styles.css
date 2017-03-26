@@ -57,6 +57,46 @@ font-family: 'Lato', sans-serif;
   width: 90%;
 }
 
+.ourservices {
+  color: #686d8b
+}
+.note {
+  color: #757d9d
+}
+.flex-container {
+  display: 29.0 21.0 -webkit-flex-;
+  display:flex;
+  justify-content: center;
+  max-width: 960px;
+  height: 500px
+}
+
+.flex-item {
+  width: 920px;
+  height: 400px;
+  margin-left: 10px;
+}
+
+.portfolio {
+  height: 850px;
+  background-color: #2d2f3b;
+  padding-top: 75px;
+  color: #666b88
+}
+.picture {
+  float: right;
+  padding: 20px;
+}
+.picrow2 {
+  float: right;
+  padding: 20px;
+}
+.picrow3 {
+  float: right;
+  padding: 20px;
+}
+
+
 @media screen and (max-width: 550px) {
 
   .logo{
